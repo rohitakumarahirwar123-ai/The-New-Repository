@@ -1,0 +1,290 @@
+body {
+    background: #FFF8F0;
+    font-family: 'Inter';
+
+
+}
+
+h1 {
+
+    margin-bottom: 30px;
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 50px;
+
+    position: relative;
+    color: #190D37;
+
+
+}
+
+h2 {
+    /* With 10+ years of developer and designer experience */
+
+
+
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    /* or 111% */
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+h2 {
+    /* You can check out a few of my projects below. */
+
+
+
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    /* or 111% */
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+#big-text {
+
+
+
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    /* or 178% */
+
+    color: #331E6A;
+
+    margin-bottom: 20px;
+}
+
+#Hero-section {
+    display: flex;
+    max-width: fit-content;
+
+
+}
+
+#hero-text {
+    width: 50%;
+    margin: 32px 20px 32px 20px;
+
+
+
+}
+
+#hero-image {
+    width: 100%;
+
+}
+
+.contact {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+
+}
+
+#name {
+    /* Hi, I’m Ferdi Sahin */
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 28px;
+
+    color: #291854;
+
+
+}
+
+.professional {
+    /* Freelance Front-end 4 and Wordpress Developer */
+
+
+
+    font-family: 'League Spartan';
+    font-style: normal;
+
+    color: #190D37;
+
+
+}
+
+#button1 {
+    /* Rectangle 1 */
+
+
+
+    background: #2F2F2F;
+    border-radius: 4px;
+    /* Contact Me */
+
+
+    width: 90px;
+    height: 19px;
+    left: 214px;
+    top: 468px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+    margin-top: 20px;
+    padding: 7px;
+
+}
+
+.price-section {
+    margin-top: 40px;
+
+
+
+}
+
+.nav-text {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'poppins', sans-serif;
+    /* PRICING */
+
+
+
+    color: #2858FF;
+
+
+}
+
+.pricing-text {
+    /* You can take a look at the pricing table based on the work I do. */
+
+
+
+    font-family: 'League Spartan';
+    font-style: normal;
+
+    /* or 111% */
+    text-align: center;
+
+    color: #000000;
+
+
+    margin: auto 160px;
+}
+
+.price-info {
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus turpis ligula, pellentesque a elit in, convallis laoreet metus. Sed aliquet lacinia dictum. In pharetra nunc nisi, ac aliquet est pretium non. */
+
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #190D37;
+
+    margin: auto 160px;
+
+}
+
+.price-box {
+    display: flex;
+    margin: 40px 160px 40px 160px;
+}
+
+.box {
+    width: 33.33%;
+    margin-right: 12px;
+    font-family: 'poppins', sans-serif;
+}
+
+.price-box1 {
+    background: white;
+    padding-left: 20px;
+
+}
+
+.price-intro {
+    padding-top: 20px;
+    margin-bottom: 20px;
+    color: #2858FF;
+}
+
+#price {
+    /* Price */
+
+
+
+}
+
+#price-do {
+    /* $99 */
+
+
+    width: 68px;
+    height: 54px;
+    left: 210px;
+    top: 2521px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+    color: #000000;
+    margin-bottom: 8px;
+
+}
+
+#price-text1 {
+    margin: auto 70px auto 20px;
+}
+
+#tick1 {
+    margin-bottom: -3px;
+
+}
+
+#price-text1 {
+    text-align: center;
+    padding-left: 10px
+}
+
+#theline {
+    margin-top: -12px;
+    position: absolute;
+
+    z-index: -10px;
+}
+
+#button2 {}
+
+#box11 .button2:hover {
+    cursor: pointer;
+    background: black;
+    color: white;
+
+}
